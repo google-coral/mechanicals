@@ -1,7 +1,6 @@
 # Mechanicals for Coral.ai projects
 
-This repo contains the source designs for mechanicals
-for coral.ai projects
+This repo contains reference mechanical designs for coral.ai projects
 
 
 ## Support
